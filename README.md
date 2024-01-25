@@ -1,1 +1,0 @@
-# application-for-metal-prices
